@@ -1,17 +1,21 @@
 # AI Chatbot for FAQs
 
-## Features
-- Interactive Chatbot UI
-- Real-Time Bias Detection
-- FAQ Management (CRUD Operations)
-- Confidence Score Threshold (50%)
+An AI-powered chatbot that provides FAQ responses with real-time bias detection and self-correction capabilities. Built with React, Flask, and BERT embeddings.
 
-## Installation
-1. Clone repository
-2. Install frontend dependencies: `npm install`
-3. Install backend dependencies: `pip install -r requirements.txt`
-4. Initialize database: `python database/migrations/init_db.py`
-5. Start backend: `python backend/app/main.py`
-6. Start frontend: `npm start`
 
-[Full README content...]
+## Key Features
+- **NLP-Powered FAQ Matching** using Sentence Transformers
+- **Bias Detection System** with pattern-based correction
+- **CRUD Operations** for FAQ management
+- **Confidence Thresholding** (answers under 50% confidence are declined)
+- **React Frontend** with admin dashboard
+- **SQLite Database** with JSON seeding
+
+## Installation 🛠️
+
+### Prerequisites
+- Python 3.10+
+- Node.js 18.x
+- npm
+
+### Backend Setup
