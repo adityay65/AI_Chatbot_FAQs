@@ -1,0 +1,52 @@
+{
+    "faqs": [
+      {"id": 1, "question": "How do I reset my password?", "answer": "Go to the login page, click on 'Forgot Password', and follow the instructions."},
+      {"id": 2, "question": "What is the refund policy?", "answer": "You can request a refund within 30 days of purchase with a valid receipt."},
+      {"id": 3, "question": "How can I contact customer support?", "answer": "You can reach us via email at support@example.com or call 1-800-555-5555."},
+      {"id": 4, "question": "Do you offer international shipping?", "answer": "Yes, we ship to over 50 countries. Shipping costs vary based on location."},
+      {"id": 5, "question": "How can I track my order?", "answer": "Log in to your account and go to 'My Orders' to track your shipment."},
+  
+      {"id": 6, "question": "What payment methods do you accept?", "answer": "We accept Visa, MasterCard, PayPal, and Apple Pay."},
+      {"id": 7, "question": "How do I apply for a job at your company?", "answer": "Visit our careers page and submit an online application."},
+      {"id": 8, "question": "Can I change my order after placing it?", "answer": "Orders can be modified within 24 hours. Contact support for assistance."},
+      {"id": 9, "question": "Do you provide discounts for bulk orders?", "answer": "Yes, we offer discounts on bulk purchases. Contact our sales team for details."},
+      {"id": 10, "question": "How do I unsubscribe from marketing emails?", "answer": "Click the 'Unsubscribe' link at the bottom of any marketing email."},
+  
+      {"id": 11, "question": "Can I return an item after 60 days?", "answer": "No, our return policy only allows for returns within 30 days."},
+      {"id": 12, "question": "What should I do if my order is damaged?", "answer": "Contact customer support with photos of the damage within 48 hours of delivery."},
+      {"id": 13, "question": "How long does shipping take?", "answer": "Shipping time varies based on your location and shipping method."},
+      {"id": 14, "question": "Do you have a loyalty program?", "answer": "Yes, we offer reward points for purchases, which can be redeemed for discounts."},
+      {"id": 15, "question": "What are your business hours?", "answer": "Our customer support team is available Monday to Friday, 9 AM - 6 PM EST."},
+  
+      {"id": 16, "question": "Can I cancel my subscription anytime?", "answer": "Yes, you can cancel your subscription anytime from your account settings."},
+      {"id": 17, "question": "Do you offer student discounts?", "answer": "Yes, we offer a 10% discount for students. Verify your student status to apply."},
+      {"id": 18, "question": "Is my personal data secure?", "answer": "Yes, we follow industry best practices to protect your personal data and privacy."},
+      {"id": 19, "question": "How do I report a bug or issue?", "answer": "Please submit a bug report via our support portal or email us at bugs@example.com."},
+      {"id": 20, "question": "How can I upgrade my account?", "answer": "Go to account settings and select 'Upgrade Plan' to choose a higher-tier plan."},
+  
+      {"id": 21, "question": "Can I use your service on multiple devices?", "answer": "Yes, your account can be accessed from multiple devices simultaneously."},
+      {"id": 22, "question": "Do you support two-factor authentication?", "answer": "Yes, you can enable 2FA in your security settings for added account protection."},
+      {"id": 23, "question": "How do I delete my account permanently?", "answer": "To delete your account, go to account settings and select 'Delete Account'. This action cannot be undone."},
+      {"id": 24, "question": "Are your products covered by warranty?", "answer": "Yes, all our products come with a one-year warranty against manufacturing defects."},
+      {"id": 25, "question": "Can I request a product demo?", "answer": "Yes, schedule a free product demo by filling out the form on our website."},
+  
+      {"id": 100, "question": "Do you support cryptocurrency payments?", "answer": "Currently, we do not support cryptocurrency payments."},
+      {"id": 101, "question": "How do I join your affiliate program?", "answer": "Sign up for our affiliate program on our website to start earning commissions."},
+      {"id": 102, "question": "Can I customize the software to my needs?", "answer": "We offer customization options for enterprise clients. Contact sales for details."},
+      {"id": 103, "question": "Do you provide training for new users?", "answer": "Yes, we provide onboarding training and user guides for new customers."},
+      {"id": 104, "question": "Can I integrate your service with third-party apps?", "answer": "Yes, we offer API integrations with several third-party applications."},
+  
+      {"id": 200, "question": "Is your customer support available 24/7?", "answer": "We offer 24/7 email support. Live chat and phone support are available during business hours."},
+      {"id": 201, "question": "Do you provide enterprise solutions?", "answer": "Yes, we offer customized enterprise solutions based on business needs."},
+      {"id": 202, "question": "What happens if my payment fails?", "answer": "If your payment fails, you will receive a notification. Please update your payment method."},
+      {"id": 203, "question": "Can I reschedule a delivery?", "answer": "Yes, you can request a delivery reschedule by contacting our logistics team."},
+      {"id": 204, "question": "Do you offer refunds for digital products?", "answer": "Refunds for digital products are subject to approval based on our terms of service."},
+  
+      {"id": 300, "question": "Can I request additional storage on my account?", "answer": "Yes, you can purchase additional storage through your account settings."},
+      {"id": 301, "question": "How do I report inappropriate content on your platform?", "answer": "Use the 'Report' button next to the content or contact our moderation team."},
+      {"id": 302, "question": "Do you offer multi-user accounts for teams?", "answer": "Yes, we provide team accounts with role-based access control."},
+      {"id": 303, "question": "Can I pause my subscription instead of canceling?", "answer": "Yes, you can pause your subscription for up to 3 months."},
+      {"id": 304, "question": "How do I get notified about new features?", "answer": "Enable product updates in your notification settings to receive updates."}
+    ]
+  }
+  
