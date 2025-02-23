@@ -48,19 +48,6 @@ npm start
 | `/faqs/{id}`   | PUT    | Update existing FAQ        |
 | `/faqs/{id}`   | DELETE | Remove FAQ                 |
 
-## Project Structure
-
-AI_Chatbot_FAQs/
-├── frontend/ # React app
-│ ├── public/
-│ └── src/
-├── backend/ # Flask API
-│ ├── app/
-│ ├── nlp/
-│ └── database/
-├── nlp/
-│ └── data/ # FAQ datasets
-└── docs/ # Documentation
 
 
 ## Configuration
